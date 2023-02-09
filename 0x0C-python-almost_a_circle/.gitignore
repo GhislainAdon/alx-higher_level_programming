@@ -1,0 +1,13 @@
+# Whitelist
+
+*
+!README.md
+!AUTHORS
+!.gitignore
+!*.c
+!*.h
+!*.py
+!*.txt
+!/models/
+!/tests/
+!/tests/test_models/
